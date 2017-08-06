@@ -243,6 +243,15 @@ a {
   color: white;
 }
 
+.screenshot {
+  border: 2px solid #2d3e50;
+}
+
+.sources {
+  font-size: 10px;
+  line-height:12px;
+}
+
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --
  * On tablets and other medium-sized devices, we want to customize some
